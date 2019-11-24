@@ -22,6 +22,7 @@
     "extensions": [
         "yzhang.markdown-all-in-one",
         "shd101wyy.markdown-preview-enhanced",
-        "bungcip.better-toml"
+        "bungcip.better-toml",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
